@@ -1,4 +1,4 @@
-# Friends-in-a-Scandal-Project
+# Coursework Project: Friends in a Scandal Java Project
 
 **Read the data file**
 
