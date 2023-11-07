@@ -4,6 +4,10 @@ The Enron dataset is a large collection of email messages and other documents th
 
 One of the key questions that researchers have asked about the Enron dataset is how information flows within organizations. Connectors are individuals who play a critical role in information flow by connecting different groups of people. Identifying connectors can help us to understand how information spreads within organizations and how it can be manipulated.
 
+**Methods**
+
+This coursework project aims to identify connectors in the Enron dataset using a depth-first search (DFS) algorithm. The following steps were taken:
+
 **Read the data file**
 
 - Read the valid mail files in the Enron dataset.
@@ -40,3 +44,8 @@ ______________________
 **Running time:**
 - O(n), where n is the total number of mail files in the mail directory.
 - The program runs through all directory paths to filter valid mail and then process data in valid mail files.
+
+______________________
+**Conclusion**
+
+This coursework project has demonstrated the effectiveness of DFS algorithms for identifying connectors in the Enron dataset. The list of connectors identified in this study can be used by researchers to further study information flow within organizations and how it can be manipulated.
