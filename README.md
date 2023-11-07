@@ -31,8 +31,7 @@ ______________________
 
 **Others:**
 
-- Pattern, Matcher, ReentrantLock, ExecutorService, TimeUnit, Executors, BufferedReader.
-- Reading DirectoryStream https://www.baeldung.com/java-list-directory-files.
+- Pattern, Matcher, ReentrantLock, ExecutorService, TimeUnit, Executors, BufferedReader, Reading DirectoryStream.
 
 **Running time:**
 - O(n), where n is the total number of mail files in the mail directory.
