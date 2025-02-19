@@ -1,5 +1,6 @@
-# Coursework Project: Friends in a Scandal Java Project
+# Java Coursework Project: Friends in a Scandal
 
+# Overview
 The Enron dataset is a large collection of email messages and other documents that were collected during the bankruptcy of Enron Corporation. The dataset is a valuable resource for researchers who are interested in studying organizational behavior, corporate fraud, and other social phenomena.
 
 One of the key questions that researchers have asked about the Enron dataset is how information flows within organizations. Connectors are individuals who play a critical role in information flow by connecting different groups of people. Identifying connectors can help us to understand how information spreads within organizations and how it can be manipulated.
